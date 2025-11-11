@@ -1,7 +1,7 @@
 # Mega.nz download bot
 
 
-![logo]()
+![logo](https://te.legra.ph/file/ac85ccab709930dabbee0-bee38c8a865cb96ffc.jpg)
 
 
 
