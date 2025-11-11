@@ -1,1 +1,1 @@
-worker: python3 mega.py
+worker: python3 bot.py
